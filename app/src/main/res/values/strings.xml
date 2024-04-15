@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Emotune</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_image">Image</string>
+    <string name="title_chat">Chat</string>
+    <string name="title_mic">Mic</string>
+    <string name="lorem">
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Distinctio fugiat, quo maiores harum quibusdam asperiores adipisci nihil perferendis voluptatibus eligendi mollitia dolor esse vel fuga placeat commodi itaque provident culpa!
+    </string>
+</resources>

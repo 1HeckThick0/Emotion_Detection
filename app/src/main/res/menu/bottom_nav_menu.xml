@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_image"
+        android:icon="@drawable/icon_image"
+        android:title="@string/title_image" />
+
+    <item
+        android:id="@+id/navigation_chat"
+        android:icon="@drawable/icon_chat"
+        android:title="@string/title_chat" />
+
+<!--    <item-->
+<!--        android:id="@+id/navigation_voice"-->
+<!--        android:icon="@drawable/icon_voice"-->
+<!--        android:title="@string/title_mic" />-->
+
+</menu>
